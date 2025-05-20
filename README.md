@@ -8,10 +8,11 @@
 ## ⚙️Projeto
 
 <details>
-    <summary>🖥️Configurando o Servidor Azure </summary>
+    <summary>🖥️ Configurando o Servidor Azure </summary>
     
     Com os processos anteriores realizados, de antemão, criamos o grupo de recurso, tendo isso em mãos.
-    Realizei a configuração do Database com uma configuração (serverless) onde eu possuo 32 GB de memória gratuita para utilizar em um período de 30 dias, perfeito para o ambiente de desenvolvimento que já estamos implantados.
+    Realizei a configuração do Database com uma configuração (serverless) onde eu possuo 32 GB de memória
+    gratuita para utilizar em um período de 30 dias, perfeito para o ambiente de desenvolvimento que já estamos implantados.
     Após todo o processo do banco de dados criado, foi necessário realizar a configuração das permissões e firewall (permitindo o acesso do servidor para o meu IP).
     Assim, finalizando a implantação com o total de custo de R$ 0,00 por 30 dias!
 
@@ -33,6 +34,10 @@
     
     Todas as imagens estão na pasta "/Images", agradeço por ler até aqui!
 </details>
+
+### 🖼️ Imagem da Query
+
+![AzureDb](https://raw.githubusercontent.com/LCC-DEVe/dio-azure-cibd/refs/heads/main/images/az-db-table-20250519.jpg)
 
 # 🚀 Acesse a plataforma para saber mais!
 
